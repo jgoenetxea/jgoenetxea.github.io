@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Jon Goenetxea"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A researcher at Vicomtech, trying to integrate cool staff into small mobile devices. And cars. And watches (Why not?)"
   location         : "Bergara, Gipuzkoa, Spain"
   employer         : 
-  googlescholar    : ""
-  email            : 
+  googlescholar    : 
+  email            : "jgoenetxea@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,16 +91,16 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "jgoenetxea"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "https://www.linkedin.com/in/jon-goenetxea-imaz-b4039360/"
+  orcid            : "http://orcid.org/0000-0001-8412-5123"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/1407528/goe" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "sir_goe"
