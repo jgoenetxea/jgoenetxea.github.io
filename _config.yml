@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Goenetxea"
-  avatar           : "profile.png"
+  avatar           : "files/jon.goenetxea.jpg"
   bio              : "A researcher at Vicomtech, trying to integrate cool staff into small mobile devices. And cars. And watches (Why not?)"
   location         : "Bergara, Gipuzkoa, Spain"
   employer         : 
@@ -169,7 +169,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
