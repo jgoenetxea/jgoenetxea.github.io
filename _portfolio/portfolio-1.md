@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Viulib Project developer"
+excerpt: "Part of development team of vision based application library as part of Vicomtech researcher.<br/><a href="http://www.viulib.org/index.html"><img src='http://www.viulib.org/images/home/FaceTracking.jpg'></a>"
 collection: portfolio
 ---
 
